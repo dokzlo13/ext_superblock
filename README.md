@@ -12,7 +12,7 @@ $ cd ext_superblock
 or just download single util-file by "wget":
 
 ```bash
-$ https://raw.githubusercontent.com/dokzlo13/ext_superblock/master/ext-superblock.py
+$ wget https://raw.githubusercontent.com/dokzlo13/ext_superblock/master/ext-superblock.py
 ```
 
 Then, you can create superblock hexdump or detailed report. Specify work mode and path to file, formatted as ext2/3 filesystem:
